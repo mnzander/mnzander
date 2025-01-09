@@ -8,6 +8,15 @@
 - 🖼️ Frontend Developer 🖼️
 - 🗃️ Backend Developer 🗃️
 - 💻 +2 years experience as System Administrator 💻
-- ⚔️ Passionate about history, video games, and Star Wars ⚔️
+- ⚔️ Passionate about history, videogames, and Star Wars ⚔️
 <br>
 
+# Technologies
+
+- HTML🗏
+- CSS🖼️
+- Javascript🟨
+- React⚛️
+- Node.js🟩
+- Express.js⬜
+- MongoDB🌱

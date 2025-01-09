@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://andermunozrivas.netlify.app" target="_blank">Ander</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/CS6klg5.png" alt="Banner Github">
 
-<!--
-**mnzander/mnzander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🖼️ Frontend Developer 🖼️
+- 🗃️ Backend Developer 🗃️
+- 💻 +2 years experience as System Administrator 💻
+- ⚔️ Passionate about history, video games, and Star Wars ⚔️
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
